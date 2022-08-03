@@ -56,7 +56,7 @@ class SzamlaAgent {
     /**
      * Tanúsítványok útvonala
      */
-    const CERTIFICATION_PATH = 'SzamlazzHuSzamlaAgent/cert';
+    const CERTIFICATION_PATH = 'szamlazz-hu-szamla-agent/cert';
 
     /**
      * PDF dokumentumok útvonala

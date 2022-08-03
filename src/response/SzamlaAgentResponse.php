@@ -331,6 +331,23 @@ class SzamlaAgentResponse {
         return false;
     }
 
+        /**
+     * Letölti a válaszban kapott PDF fájlt (ha létezik)
+     *
+     * @return bool
+     */
+    public function downloadPdfToTemp() {
+        $pdfFileName = $this->getPdfFileName(false);
+
+        if (SzamlaAgentUtil::isNotBlank($pdfFileName)) {
+            header("Content-type:application/pdf");
+            header("Content-Disposition:attachment;filename={$pdfFileName}.pdf");
+            //readfile($this->getPdfFileAbsPath($pdfFileName));
+            //return true;
+        }
+        return false;
+    }
+
     /**
      * Visszaadja a válasz sikerességét
      *
