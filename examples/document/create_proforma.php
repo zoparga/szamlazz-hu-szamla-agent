@@ -3,7 +3,7 @@
 /**
  * Ez a példa megmutatja, hogy hogyan hozzunk létre egy díjbekérőt.
  */
-require __DIR__ . '/../autoload.php';
+
 
 use zoparga\SzamlazzHuSzamlaAgent\Buyer;
 use zoparga\SzamlazzHuSzamlaAgent\Document\Proforma;

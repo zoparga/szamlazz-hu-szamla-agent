@@ -3,7 +3,7 @@
 /**
  * Ez a példa megmutatja, hogy hogyan hozzunk létre egy számlát fájl melléklettel együtt.
  */
-require __DIR__ . '/../../autoload.php';
+
 
 use zoparga\SzamlazzHuSzamlaAgent\SzamlaAgentAPI;
 use zoparga\SzamlazzHuSzamlaAgent\SzamlaAgentUtil;

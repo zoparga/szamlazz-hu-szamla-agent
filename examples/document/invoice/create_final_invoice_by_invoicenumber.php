@@ -3,7 +3,7 @@
 /**
  * Ez a példa megmutatja, hogy hogyan hozzunk létre előlegszámlából végszámlát az előlegszámla számlaszáma alapján.
  */
-require __DIR__ . '/../../autoload.php';
+
 
 use zoparga\SzamlazzHuSzamlaAgent\SzamlaAgentAPI;
 use zoparga\SzamlazzHuSzamlaAgent\Buyer;

@@ -3,7 +3,7 @@
 /**
  * Ez a példa megmutatja, hogy hogyan hozzunk létre egy számlát.
  */
-require __DIR__ . '/../../autoload.php';
+
 
 use zoparga\SzamlazzHuSzamlaAgent\SzamlaAgentAPI;
 use zoparga\SzamlazzHuSzamlaAgent\Buyer;

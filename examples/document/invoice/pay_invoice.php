@@ -3,7 +3,7 @@
 /**
  * Ez a példa megmutatja, hogy hogyan tudunk hozzáadni egy jóváírást egy számlához
  */
-require __DIR__ . '/../../autoload.php';
+
 
 use zoparga\SzamlazzHuSzamlaAgent\SzamlaAgentAPI;
 use zoparga\SzamlazzHuSzamlaAgent\CreditNote\InvoiceCreditNote;

@@ -3,7 +3,7 @@
 /**
  * Ez a példa megmutatja, hogy hogyan kérdezzük le egy nyugta adatait
  */
-require __DIR__ . '/../../autoload.php';
+
 
 use zoparga\SzamlazzHuSzamlaAgent\SzamlaAgentAPI;
 

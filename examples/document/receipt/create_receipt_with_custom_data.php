@@ -3,7 +3,7 @@
 /**
  * Ez a példa megmutatja, hogy hogyan hozzunk létre egy nyugtát egyedi adatokkal.
  */
-require __DIR__ . '/../../autoload.php';
+
 
 use zoparga\SzamlazzHuSzamlaAgent\Header\ReceiptHeader;
 use zoparga\SzamlazzHuSzamlaAgent\SzamlaAgentAPI;

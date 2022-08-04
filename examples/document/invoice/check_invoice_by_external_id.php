@@ -8,7 +8,7 @@
  *
  * @see \SzamlaAgent\SzamlaAgent::setInvoiceExternalId()
  */
-require __DIR__ . '/../../autoload.php';
+
 
 use zoparga\SzamlazzHuSzamlaAgent\SzamlaAgentAPI;
 

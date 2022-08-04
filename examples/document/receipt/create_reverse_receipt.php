@@ -3,7 +3,7 @@
 /**
  * Ez a példa megmutatja, hogy hogyan tudunk sztornózni egy nyugtát.
  */
-require __DIR__ . '/../../autoload.php';
+
 
 use zoparga\SzamlazzHuSzamlaAgent\SzamlaAgentAPI;
 use zoparga\SzamlazzHuSzamlaAgent\Document\Receipt\ReverseReceipt;

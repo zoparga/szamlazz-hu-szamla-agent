@@ -11,7 +11,7 @@
      * A válaszban érkező adatok feldolgozását a TaxPayerResponse objektumon keresztül 2.9.10 verzióig támogattuk.
      * @see TaxPayerResponse
      */
-    require __DIR__ . '/autoload.php';
+
 
     use zoparga\SzamlazzHuSzamlaAgent\SzamlaAgentAPI;
 

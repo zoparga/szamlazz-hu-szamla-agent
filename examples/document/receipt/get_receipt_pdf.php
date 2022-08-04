@@ -3,7 +3,7 @@
 /**
  * Ez a példa megmutatja, hogy hogyan töltsünk le egy nyugtát PDF-ben
  */
-require __DIR__ . '/../../autoload.php';
+
 
 use zoparga\SzamlazzHuSzamlaAgent\SzamlaAgentAPI;
 

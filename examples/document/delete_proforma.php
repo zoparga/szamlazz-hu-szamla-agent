@@ -3,7 +3,7 @@
 /**
  * Ez a példa megmutatja, hogy hogyan töröljünk egy díjbekérőt számlaszám vagy rendelésszám alapján
  */
-require __DIR__ . '/../autoload.php';
+
 
 use zoparga\SzamlazzHuSzamlaAgent\SzamlaAgentAPI;
 

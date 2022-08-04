@@ -3,7 +3,7 @@
 /**
  * Ez a példa megmutatja, hogy hogyan tudunk elküldeni egy nyugta értesítőt egy vevő részére
  */
-require __DIR__ . '/../../autoload.php';
+
 
 use zoparga\SzamlazzHuSzamlaAgent\Buyer;
 use zoparga\SzamlazzHuSzamlaAgent\Seller;
